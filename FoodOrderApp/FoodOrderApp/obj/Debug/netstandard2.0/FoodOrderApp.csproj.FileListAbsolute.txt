@@ -1,0 +1,16 @@
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\bin\Debug\netstandard2.0\FoodOrderApp.deps.json
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\bin\Debug\netstandard2.0\FoodOrderApp.dll
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\FoodOrderApp.csprojAssemblyReference.cache
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\FoodOrderApp.AssemblyInfoInputs.cache
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\FoodOrderApp.AssemblyInfo.cs
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\bin\Debug\netstandard2.0\ref\FoodOrderApp.dll
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\bin\Debug\netstandard2.0\FoodOrderApp.pdb
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\Views\ProductsView.xaml.g.cs
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\FoodOrderApp.csproj.CoreCompileInputs.cache
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\FoodOrderApp.dll
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\ref\FoodOrderApp.dll
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\FoodOrderApp.pdb
