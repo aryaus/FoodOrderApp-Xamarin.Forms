@@ -7,6 +7,9 @@
              ios:Page.UseSafeArea="True"
              xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
              x:Class="FoodOrderApp.Views.ProductsView">
+    <ContentPage.BindingContext>
+        <vm:ProductsViewModel/>
+    </ContentPage.BindingContext>
     <ContentPage.Content>
         <Grid Margin="20,0,0,0">
             <Grid.RowDefinitions>

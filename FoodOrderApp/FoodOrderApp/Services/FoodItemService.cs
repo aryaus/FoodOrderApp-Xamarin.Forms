@@ -19,7 +19,7 @@ namespace FoodOrderApp.Services
             client = new FirebaseClient("https://foodorderapp-60d9b.firebaseio.com/");
         }
 
-        public async Task<List<FoodItem>> GetFoodItemAsync()
+        public async Task<List<FoodItem>> GetFoodItemsAsync()
         {
             var products = (await client.Child("FoodItems").
                 OnceAsync<FoodItem>()).Select(f => new FoodItem
@@ -42,7 +42,7 @@ namespace FoodOrderApp.Services
         public async Task<ObservableCollection<FoodItem>> GetFoodItemsByCategoryAsync(int categoryID)
         {
             var foodItemsByCategory = new ObservableCollection<FoodItem>();
-            var items = (await GetFoodItemAsync()).Where(p => p.CategoryID == categoryID).ToList();
+            var items = (await GetFoodItemsAsync()).Where(p => p.CategoryID == categoryID).ToList();
 
             foreach (var item in items)
             {
@@ -50,6 +50,16 @@ namespace FoodOrderApp.Services
             }
             return foodItemsByCategory;
 
+        }
+        public async Task<ObservableCollection<FoodItem>> GetLatestFoodItemsAsync()
+        {
+            var latestFoodItems = new ObservableCollection<FoodItem>();
+            var items = (await GetFoodItemsAsync()).OrderByDescending(f => f.ProductId).Take(3);
+            foreach (var item in items)
+            {
+                latestFoodItems.Add(item);
+            }
+            return latestFoodItems;
         }
 
 
