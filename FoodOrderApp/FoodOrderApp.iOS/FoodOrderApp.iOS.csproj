@@ -143,4 +143,46 @@
       <Name>FoodOrderApp</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Burger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\CompleteHeart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Dessert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\EmptyHeart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\HamburgerMenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\MainDessert.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Order.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Pizza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\MainBurger.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\More.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\MainPizza.jpg" />
+  </ItemGroup>
 </Project>

@@ -17,3 +17,5 @@ C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\Fo
 C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
 C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\Views\CartView.xaml.g.cs
 C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\Views\LogoutView.xaml.g.cs
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\Views\CategoryView.xaml.g.cs
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp\obj\Debug\netstandard2.0\Views\ProductDetailsView.xaml.g.cs

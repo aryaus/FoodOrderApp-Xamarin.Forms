@@ -509,3 +509,17 @@ C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\Fo
 C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\add.png
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\arrow.png
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\burger.png
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\completeheart.png
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\dessert.png
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\emptyheart.png
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\hamburgermenu.png
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\mainburger.jpg
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\maindessert.jpg
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\mainpizza.jpg
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\order.png
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\pizza.png
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\star.png
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\more.png

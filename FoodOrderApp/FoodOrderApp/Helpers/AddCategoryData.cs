@@ -25,42 +25,42 @@ namespace FoodOrderApp.Helpers
                 {
                     CategoryID = 1,
                     CategoryName = "Burger",
-                    CategoryPoster = "MainBurger.png",
+                    CategoryPoster = "MainBurger",
                     ImageUrl = "Burger.png"
                 },
                  new Category()
                 {
                     CategoryID = 2,
                     CategoryName = "Pizza",
-                    CategoryPoster = "MainPizza.png",
+                    CategoryPoster = "MainPizza",
                     ImageUrl = "Pizza.png"
                 },
                   new Category()
                 {
                     CategoryID = 3,
                     CategoryName = "Desserts",
-                    CategoryPoster = "MainDesserts.png",
+                    CategoryPoster = "MainDessert.jpg",
                     ImageUrl = "Dessert.png"
                 },
                    new Category()
                 {
                     CategoryID = 4,
                     CategoryName = "Veg Burger",
-                    CategoryPoster = "MainBurger.png",
+                    CategoryPoster = "MainBurger",
                     ImageUrl = "Burger.png"
                 },
                     new Category()
                 {
                     CategoryID = 5,
                     CategoryName = "Veg Pizza",
-                    CategoryPoster = "MainPizza.png",
+                    CategoryPoster = "MainPizza",
                     ImageUrl = "Pizza.png"
                 },
                     new Category()
                 {
                     CategoryID = 6,
                     CategoryName = "Cakes",
-                    CategoryPoster = "MainDesserts.png",
+                    CategoryPoster = "MainDessert.jpg",
                     ImageUrl = "Dessert.png"
                 }
 

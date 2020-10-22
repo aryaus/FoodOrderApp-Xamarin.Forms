@@ -112,9 +112,9 @@
                                     <Image Source="{Binding ImageUrl}" HeightRequest="220" Aspect="Fill" />
                                 </pancake:PancakeView>
 
-                                <Frame Grid.Row="1" Margin="20,-80,20,70" BackgroundColor="White"
+                                <Frame Grid.Row="1" Margin="20,-80,20,50" BackgroundColor="White"
                                        CornerRadius="15" HorizontalOptions="End">
-                                <Label Text="{Binding Price, StringFormat='{0:c}'}" FontSize="Medium"
+                                <Label Text="{Binding Price, StringFormat='{0:c}'}" FontSize="Small"
                                        FontAttributes="Bold" TextColor="Black" HeightRequest="10"/>
                                 </Frame>
                                 <Label Grid.Row="1" Text="{Binding Name}" FontSize="22" FontAttributes="Bold"

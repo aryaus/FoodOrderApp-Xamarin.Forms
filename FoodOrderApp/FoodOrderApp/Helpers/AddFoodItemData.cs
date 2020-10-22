@@ -35,7 +35,7 @@ namespace FoodOrderApp.Helpers
                  new FoodItem
                 {
                     ProductId = 2,
-                    CategoryID = 1,
+                    CategoryID = 2,
                     ImageUrl = "MainBurger.png",
                     Name = "Burger and Pizza Hub 1",
                     Description = "Burger´- Pizza - Breakfast",
@@ -71,7 +71,7 @@ namespace FoodOrderApp.Helpers
                  new FoodItem
                 {
                     ProductId = 5,
-                    CategoryID = 1,
+                    CategoryID = 2,
                     ImageUrl = "MainBurger.png",
                     Name = "Burger and Pizza Hub 1",
                     Description = "Burger´- Pizza - Breakfast",
