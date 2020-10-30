@@ -56,11 +56,15 @@
             },
             "Xamarin.Forms.PancakeView": {
               "target": "Package",
-              "version": "[2.1.0.714, )"
+              "version": "[2.3.0.759, )"
             },
             "Xamarin.Forms.Visual.Material": {
               "target": "Package",
               "version": "[4.8.0.1560, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           }
         }
@@ -124,11 +128,15 @@
             },
             "Xamarin.Forms.PancakeView": {
               "target": "Package",
-              "version": "[2.1.0.714, )"
+              "version": "[2.3.0.759, )"
             },
             "Xamarin.Forms.Visual.Material": {
               "target": "Package",
               "version": "[4.8.0.1560, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           },
           "imports": [

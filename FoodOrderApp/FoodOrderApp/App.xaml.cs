@@ -13,12 +13,15 @@ namespace FoodOrderApp
             InitializeComponent();
 
             // MainPage = new LoginView();
-            //  MainPage = new SettingsPage();
+             // MainPage = new SettingsPage();
+
+
             string uname = Preferences.Get("Username", String.Empty);
             if (String.IsNullOrEmpty(uname))
             {
                 MainPage = new LoginView();
-            } else
+            }
+            else
             {
                 MainPage = new ProductsView();
             }

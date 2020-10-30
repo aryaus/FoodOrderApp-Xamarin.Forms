@@ -19,7 +19,7 @@ namespace FoodOrderApp.ViewModels
             }
         }
 
-        public ObservableCollection<FoodItem> FoodItemsbyCategory { get; set; }
+        public ObservableCollection<FoodItem> FoodItemsByCategory { get; set; }
         private int _TotalFoodItems;
 
         public int TotalFoodItems
@@ -33,19 +33,19 @@ namespace FoodOrderApp.ViewModels
         public CategoryViewModel(Category category)
         {
             SelectedCategory = category;
-            FoodItemsbyCategory = new ObservableCollection<FoodItem>();
-            GetFoodItemsAsync(category.CategoryID);
+            FoodItemsByCategory = new ObservableCollection<FoodItem>();
+            GetFoodItems(category.CategoryID);
         }
 
-        private async void GetFoodItemsAsync(int categoryID)
+        private async void GetFoodItems(int categoryID)
         {
             var data = await new FoodItemService().GetFoodItemsByCategoryAsync(categoryID);
-            FoodItemsbyCategory.Clear();
+            FoodItemsByCategory.Clear();
             foreach (var item in data)
             {
-                FoodItemsbyCategory.Add(item);
+                FoodItemsByCategory.Add(item);
             }
-            TotalFoodItems = FoodItemsbyCategory.Count;
+            TotalFoodItems = FoodItemsByCategory.Count;
         }
     }
 }

@@ -523,3 +523,11 @@ C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\Fo
 C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\pizza.png
 C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\star.png
 C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\res\drawable\more.png
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\android\assets\System.Buffers.dll
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\android\assets\System.Memory.dll
+C:\Users\mohammad.ghiri\source\repos\XamarinForms-U\FoodOrderApp\FoodOrderApp\FoodOrderApp.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll

@@ -16,5 +16,10 @@ namespace FoodOrderApp.Views
         {
             InitializeComponent();
         }
+
+        private void ImageButton_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }

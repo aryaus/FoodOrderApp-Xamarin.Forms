@@ -34,6 +34,7 @@ namespace FoodOrderApp.Views
             await Navigation.PushModalAsync(new ProductDetailsView(selectedProduct));
             ((CollectionView)sender).SelectedItem = null;
             
+         
         }
     }
 }

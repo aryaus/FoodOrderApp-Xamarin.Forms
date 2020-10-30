@@ -9,7 +9,7 @@ using Xamarin.Forms;
 
 namespace FoodOrderApp.Helpers
 {
-    class AddCategoryData
+    public class AddCategoryData
     {
         public List<Category> Categories { get; set; }
 
@@ -60,7 +60,7 @@ namespace FoodOrderApp.Helpers
                 {
                     CategoryID = 6,
                     CategoryName = "Cakes",
-                    CategoryPoster = "MainDessert.jpg",
+                    CategoryPoster = "MainDessert",
                     ImageUrl = "Dessert.png"
                 }
 
@@ -74,6 +74,7 @@ namespace FoodOrderApp.Helpers
                 {
                     await client.Child("Categories").PostAsync(new Category()
                     {
+
                         CategoryID = category.CategoryID,
                         CategoryName = category.CategoryName,
                         CategoryPoster = category.CategoryPoster,
